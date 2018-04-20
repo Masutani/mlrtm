@@ -7,5 +7,5 @@ Refer mlr document to use this wrapper :
 https://mlr-org.github.io/mlr-tutorial/devel/html/index.html
 
 ## supported baysean network libraries
-- tm 
+- topicmodel  https://cran.r-project.org/web/packages/topicmodels/index.html
 
