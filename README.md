@@ -6,6 +6,6 @@ topic model library wrapper for mlr
 Refer mlr document to use this wrapper :
 https://mlr-org.github.io/mlr-tutorial/devel/html/index.html
 
-## supported baysean network libraries
+## supported topic model libraries
 - topicmodel  https://cran.r-project.org/web/packages/topicmodels/index.html
 
